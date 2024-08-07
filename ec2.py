@@ -21,3 +21,4 @@ try:
 except NoValidUpdatesError as e:
     print(f"Failed to create EC2 instance: {e}")
 
+# extra line added
